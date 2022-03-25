@@ -3,7 +3,7 @@
  * @Date: 2022-03-25 17:59:39
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2022-03-25 18:07:44
+ * @LastEditTime: 2022-03-25 18:12:55
  * @FilePath: /arithmetic/README.md
 -->
 <p align="center">
@@ -16,8 +16,8 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
+[![GitHub Issues](https://img.shields.io/github/issues/viletyy/arithmetic-go.svg)](https://github.com/viletyy/arithmetic-go/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/viletyy/arithmetic-go.svg)](https://github.com/viletyy/arithmetic-go/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
@@ -31,36 +31,36 @@
 ## 📝 目录
 
 - [📝 目录](#-目录)
-- [🧐 About <a name = "about"></a>](#-about-)
-- [🏁 Getting Started <a name = "getting_started"></a>](#-getting-started-)
-- [🎈 Usage <a name="usage"></a>](#-usage-)
-- [⛏️ Built Using <a name = "built_using"></a>](#️-built-using-)
-- [✍️ Authors <a name = "authors"></a>](#️-authors-)
-- [🎉 Acknowledgements <a name = "acknowledgement"></a>](#-acknowledgements-)
+- [🧐 关于我 <a name = "about"></a>](#-关于我-)
+- [🏁 开始 <a name = "getting_started"></a>](#-开始-)
+- [🎈 使用 <a name="usage"></a>](#-使用-)
+- [⛏️ 使用了哪些工具 <a name = "built_using"></a>](#️-使用了哪些工具-)
+- [✍️ 作者 <a name = "authors"></a>](#️-作者-)
+- [🎉 参考资料 <a name = "acknowledgement"></a>](#-参考资料-)
 
-## 🧐 About <a name = "about"></a>
+## 🧐 关于我 <a name = "about"></a>
 
-野生程序猿
+野生程序猿<br>
 用代码编织梦想的🐒
 
-## 🏁 Getting Started <a name = "getting_started"></a>
+## 🏁 开始 <a name = "getting_started"></a>
 
 `go run main.go`
 
 
-## 🎈 Usage <a name="usage"></a>
+## 🎈 使用 <a name="usage"></a>
 
 开箱即用
 
-## ⛏️ Built Using <a name = "built_using"></a>
+## ⛏️ 使用了哪些工具 <a name = "built_using"></a>
 
 - [GO](https://www.mongodb.com/) - Language
 - [九章算法](https://expressjs.com/) - Study Platform
 
-## ✍️ Authors <a name = "authors"></a>
+## ✍️ 作者 <a name = "authors"></a>
 
 - [@viletyy](https://github.com/viletyy) - Idea & Initial work
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## 🎉 参考资料 <a name = "acknowledgement"></a>
 
 - 算法(第四版)
