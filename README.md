@@ -3,7 +3,7 @@
  * @Date: 2022-03-25 17:59:39
  * @LastEditors: viletyy
  * @Author: viletyy
- * @LastEditTime: 2022-03-25 18:12:55
+ * @LastEditTime: 2022-03-25 18:15:21
  * @FilePath: /arithmetic/README.md
 -->
 <p align="center">
@@ -54,8 +54,8 @@
 
 ## ⛏️ 使用了哪些工具 <a name = "built_using"></a>
 
-- [GO](https://www.mongodb.com/) - Language
-- [九章算法](https://expressjs.com/) - Study Platform
+- [GO](https://golang.org/) - Language
+- [九章算法](https://www.jiuzhang.com/) - Study Platform
 
 ## ✍️ 作者 <a name = "authors"></a>
 
